@@ -1,0 +1,40 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+article{
+    width:30vw;
+    background-color: beige;
+    margin:10vh 0 0 25vw;
+}
+h1{
+    color:white;
+    background-color:turquoise;
+    text-align: center;
+    padding:4vh 0;
+}
+input{
+text-align: start; 
+margin:1vh auto;
+padding-bottom: 2vh;
+width:90%;
+display:block;
+
+}
+
+.message{
+    text-align: start; 
+    padding-bottom: 10vh;
+}
+
+.submit{
+    border-style: none;
+padding:1vh 9vw;
+background-color:aqua;
+text-align:center;
+}
+.submit:hover{
+background-color:teal;
+}
